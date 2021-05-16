@@ -13,8 +13,8 @@ ul {
   margin: 0;
 }
 
-.bg-steel {
-  background-color: #5f788a;
+.bg-color {
+  background-color: rgba(45, 113, 130, 0.63);
 }
 
 .site-header .navbar-nav .nav-link {
